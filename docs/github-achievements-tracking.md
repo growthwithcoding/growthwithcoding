@@ -15,7 +15,7 @@
 ### Achievement Holocron
 
 <p align="center">
-  <img src="./assets/profile-padawan-badge.png" alt="Profile Padawan badge concept" width="240">
+  <img src="../assets/profile-padawan-badge.png" alt="Profile Padawan badge concept" width="240">
 </p>
 
 - **Name:** Profile Padawan ⚡  

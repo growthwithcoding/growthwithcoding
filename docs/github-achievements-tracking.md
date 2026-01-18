@@ -14,6 +14,10 @@
 
 ### Achievement Holocron
 
+<p align="center">
+  <img src="./assets/profile-padawan-badge.png" alt="Profile Padawan badge concept" width="240">
+</p>
+
 - **Name:** Profile Padawan ⚡  
 - **Theme:** Star‑Wars‑inspired apprentice **trial** for early‑stage profile customization  
 - **Target Apprentices:** New and returning developers forging or refreshing their public profile presence
